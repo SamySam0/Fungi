@@ -9,3 +9,7 @@ This is an Interactive 2-player Card Game, with pre-defined test cases in Java, 
 - To run the terminal game: ./run.sh terminal
 - To run the graphical game: ./run.sh graphics
 - To run logic and programming tests: ./run-tests.sh
+
+## Recommendations:
+- Java version "17.0.1" 2021-10-19 LTS
+- Java(TM) SE Runtime Environment (build 17.0.1+12-LTS-39)
